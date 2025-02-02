@@ -2,6 +2,7 @@
 
 ### 📌 Theme: Misinformation Detection & Fact Checking on Social Media
 False information spreads rapidly on social media, affecting public trust and decision-making. Our project, **Verify AI**, uses advanced AI models to analyze **images, texts, and videos** for fake or manipulated content in real-time.
+
 ![image](https://github.com/user-attachments/assets/ec16e6d5-478b-4fc4-baea-3960634207ab)
 ## 🚀 Features
 ✅ **Real-time detection** of misinformation in **text, images, and videos**  
@@ -63,16 +64,26 @@ while True:
 
 cap.release()
 print(f"Extracted {frame_count} frames and saved to '{output_folder}'")
-## 🎨 User Interface  
-Our **Fake News Detector** provides two detection options for users:  
-### 🔹 **1. Video Fake Detection**  
-- Users can upload a video for analysis.  
-- The system **extracts frames** from the video and analyzes them using AI-based techniques.  
-- It detects **fake elements** and provides a **detailed explanation** of why the video is classified as real or fake.  
-### 🔹 **2. Text News Detection**  
-- Users can enter or upload a news article for verification.  
-- The system processes the text, checks it against fact-checking databases, and applies NLP techniques.  
-- It returns a **real or fake classification** along with a **justification** for the decision.
-![WhatsApp Image 2025-02-02 at 10 22 05 AM](https://github.com/user-attachments/assets/b5cad969-4596-4f6e-bd6a-e3f2faa249cb)
+
+
+🎨 USER INTERFACE
+Our Fake News Detector provides two detection options for users:
+
+🔹 1. Video Fake Detection
+Users can upload a video for analysis.
+The system extracts frames from the video and analyzes them using AI-based techniques.
+It detects fake elements and provides a detailed explanation of why the video is classified as real or fake.
+🔹 2. Text News Detection
+Users can enter or upload a news article for verification.
+The system processes the text, checks it against fact-checking databases, and applies NLP techniques.
+It returns a real or fake classification along with a justification for the decision.
+
+![WhatsApp Image 2025-02-02 at 10 22 05 AM](https://github.com/user-attachments/assets/5bd0b604-b12b-4f41-aa07-6c18c6ee4782)
+
+
+
+
+
+
 
 
