@@ -78,7 +78,7 @@ Users can enter or upload a news article for verification.
 The system processes the text, checks it against fact-checking databases, and applies NLP techniques.
 It returns a real or fake classification along with a justification for the decision.
 
-![WhatsApp Image 2025-02-02 at 10 22 05 AM](https://github.com/user-attachments/assets/28008d77-85f5-4975-bf9f-cf0705ce5f1a)
+
 
 
 
